@@ -1,0 +1,21 @@
+.logo {
+  margin-left: 48%;
+}
+h1 {
+  color: whitesmoke;
+  text-align: center;
+}
+h2 {
+  color: gainsboro;
+  text-align: center;
+}
+main {
+  color: whitesmoke;
+}
+body {
+font-family: monospace;
+  background-color: black;
+}
+.lista {
+  color: whitesmoke;
+}
