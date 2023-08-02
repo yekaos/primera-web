@@ -12,10 +12,14 @@ h2 {
 main {
   color: whitesmoke;
 }
+.presentacion {
+  text-align: center;
+}
 body {
 font-family: monospace;
   background-color: black;
 }
 .lista {
   color: whitesmoke;
+  text-align: center;
 }
